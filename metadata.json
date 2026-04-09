@@ -1,0 +1,5 @@
+{
+  "name": "LLM Duel: Model Comparison",
+  "description": "Compare different LLM models side-by-side and get an AI-powered analysis of their responses.",
+  "requestFramePermissions": []
+}
